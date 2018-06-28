@@ -1,3 +1,32 @@
 body  {
-    background-color: aquamarine;
+    background-color: antiquewhite;
 }
+
+.section-one {
+    /* background-image: url('../imgs/brain.png');
+
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center; */
+    min-height: 30rem;
+    margin-top: 3rem;
+}
+
+.section-one .monochromatic {
+    width: 50%;
+    border-right: 0.5rem solid black;
+    width: 50%;
+    min-height: 480px;
+    background-color: pink;
+
+    background-image: url('../imgs/brain.png');
+
+    background-color: white;
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* background-position: center; */
+    background-position: 422px 0px;
+}
+
+
