@@ -1,2 +1,2 @@
 
-// JS things to ge here :-)  
+// JS things go here :-)  
