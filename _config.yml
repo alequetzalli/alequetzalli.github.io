@@ -1,1 +1,6 @@
-theme: jekyll-theme-architect
+title: TW Portfolio
+# logo: /assets/img/logo.png
+description: template TW portfolio
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
